@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Name: Chu Ngọc Minh Khôi
+* StudentID: 2410478
